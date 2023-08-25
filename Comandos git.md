@@ -18,7 +18,9 @@
 ## git init
 #### inicia o git no repositorio atual 
 
-## git branch <nome branch>
+## git branch
+mostra branchs existentes
+## git branch < nome branch >
 #### cria uma nova branch 
 
 ## git config user.name "Hian" 
