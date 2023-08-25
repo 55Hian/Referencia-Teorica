@@ -37,7 +37,7 @@
 #### Muda o branch 
 
 ## Git checkout <seu branch> 
-#### informa o branch atual
+#### informa o branch atual e muda o branch
 
 ## Git tag -a <v0.1.0> -m "tag do lançameno"
 #### vercionamento do código com tag
