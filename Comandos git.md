@@ -20,8 +20,10 @@
 
 ## git branch
 mostra branchs existentes
+
 ## git branch < nome branch >
 #### cria uma nova branch 
+## git branch -d < nome branch > 
 
 ## git config user.name "Hian" 
 ### git config --global user.name "nome"
@@ -37,6 +39,9 @@ mostra branchs existentes
 
 ## Git switch <seu branch> 
 #### Muda o branch 
+
+## git switch -c "nome"
+#### cria e muda para o branch
 
 ## Git checkout <seu branch> 
 #### informa o branch atual e muda o branch
