@@ -69,3 +69,6 @@ mostra branchs existentes
 
 ## git push --tags
 #### Envia as tags para o repositório remoto
+
+## git log --decorate --graph --all
+#### mostra arvore de commits do processo
