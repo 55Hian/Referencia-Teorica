@@ -21,6 +21,12 @@
 ## git branch <nome branch>
 #### cria uma nova branch 
 
+## git config user.name "Hian" 
+### git config --global user.name "nome"
+
+## git config user.email "email"
+### gir congig --global user.email "global"
+
 ## Git-add
 #### adiciona um arquivo ao git (preparação para o commit)
 
