@@ -1,24 +1,38 @@
-# Comandos git
+# Comandos Git
 #### tudo entre angle brackts (<>) são de acordo com o dev.
 
 
-## git -v
+## Git -v
 #### Mostra a versão do git
 
+## Git-add
+#### adiciona um arquivo ao git (preparação para o commit)
 
-## git switch <seu branch> 
+## Git-commit
+#### "Fecha a caixa" de arquivos para serem enviados ao repositório.
+
+## Git switch <seu branch> 
 #### Muda o branch 
 
-
-## git checkout <seu branch> 
+## Git checkout <seu branch> 
 #### informa o branch atual
 
-## git tag -a v0.1.0 -m "tag do lançameno" - vercionamento do código com tag
-
+## Git tag -a <v0.1.0> -m "tag do lançameno"
+#### vercionamento do código com tag
 ### regras de versão:
-### x.y.z: 
-### x = quando a nova aplicação não é compativel com a anterior (necessario reinstalar o app)
-### y = quando uma nova funcionalidade é adicionada ao app
-### z = quando um bug é corrigido
+#### x.y.z: 
+#### x = quando a nova aplicação não é compativel com a anterior (necessario reinstalar o app)
+#### y = quando uma nova funcionalidade é adicionada ao app
+#### z = quando um bug é corrigido
 
-## git commit -m "mensagem do commit" --allow-empty - sobe commit mesmo sem alterações
+## Git tag -d <v0.1.0>
+#### Deleta versão criada
+
+## Git commit -m "mensagem do commit" --allow-empty 
+#### sobe commit mesmo sem alterações
+
+## Git tag
+#### mostra as versões de codigo
+
+## git push --set-upstream origin <Desenvolvimento>
+#### Envia um branch para o repositório remoto
