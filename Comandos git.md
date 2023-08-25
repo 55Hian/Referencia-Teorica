@@ -18,6 +18,8 @@
 ## git init
 #### inicia o git no repositorio atual 
 
+## git branch <nome branch>
+#### cria uma nova branch 
 
 ## Git-add
 #### adiciona um arquivo ao git (preparação para o commit)
