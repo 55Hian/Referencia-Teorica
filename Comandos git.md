@@ -1,9 +1,23 @@
+# Comandos Linux
+
+## pwd
+#### mostra diretório atual
+
+## cd
+#### navega entre pastas
+
+## mkdir
+#### Cria uma nova pasta dentro do diretório atual
+
 # Comandos Git
 #### tudo entre angle brackts (<>) são de acordo com o dev.
 
-
 ## Git -v
 #### Mostra a versão do git
+
+## git init
+#### inicia o git no repositorio atual 
+
 
 ## Git-add
 #### adiciona um arquivo ao git (preparação para o commit)
