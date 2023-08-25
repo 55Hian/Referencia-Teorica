@@ -36,3 +36,6 @@
 
 ## git push --set-upstream origin <Desenvolvimento>
 #### Envia um branch para o repositório remoto
+
+## git push --tags
+#### Envia as tags para o repositório remoto
