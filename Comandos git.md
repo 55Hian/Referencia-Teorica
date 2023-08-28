@@ -64,7 +64,7 @@ mostra branchs existentes
 ## Git tag
 #### mostra as versões de codigo
 
-## git push --set-upstream origin <Desenvolvimento>
+## git push --set-upstream origin < Desenvolvimento >
 #### Envia um branch para o repositório remoto
 
 ## git push --tags
@@ -72,3 +72,7 @@ mostra branchs existentes
 
 ## git log --decorate --graph --all
 #### mostra arvore de commits do processo
+
+# Bibiografia:
+## https://developer.mozilla.org/pt-BR/docs/Glossary/WHATWG
+## https://www.w3schools.com/tags/
