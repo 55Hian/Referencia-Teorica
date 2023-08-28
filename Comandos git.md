@@ -78,5 +78,4 @@ mostra branchs existentes
 ## https://www.w3schools.com/tags/
 
 # Siglas:
-## SEO
-### Search Engine Optimization
+## SEO - Search Engine Optimization
