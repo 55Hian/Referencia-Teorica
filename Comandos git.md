@@ -79,3 +79,4 @@ mostra branchs existentes
 
 # Siglas:
 ## SEO - Search Engine Optimization
+## RFC - Request for commit
