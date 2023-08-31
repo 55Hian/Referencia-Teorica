@@ -67,6 +67,9 @@ mostra branchs existentes
 ## git push --set-upstream origin < Desenvolvimento >
 #### Envia um branch para o repositório remoto
 
+## git push origin --delete fix-margins
+#### deleta um branch do repositorio remoto
+
 ## git push --tags
 #### Envia as tags para o repositório remoto
 
