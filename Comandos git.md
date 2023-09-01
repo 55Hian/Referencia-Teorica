@@ -79,6 +79,7 @@ mostra branchs existentes
 # Bibiografia:
 ## https://developer.mozilla.org/pt-BR/docs/Glossary/WHATWG
 ## https://www.w3schools.com/tags/
+## https://meyerweb.com/eric/tools/css/reset/
 
 # Siglas:
 ## SEO - Search Engine Optimization
