@@ -78,8 +78,16 @@ mostra branchs existentes
 
 # Bibiografia:
 ## https://developer.mozilla.org/pt-BR/docs/Glossary/WHATWG
+#### tags html mozilla
+
 ## https://www.w3schools.com/tags/
+#### tags html ww3
+
 ## https://meyerweb.com/eric/tools/css/reset/
+#### Codigo reset para css
+
+## https://learngitbranching.js.org/?locale=pt_BR
+#### treinamento git branch
 
 # Siglas:
 ## SEO - Search Engine Optimization
