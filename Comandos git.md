@@ -95,3 +95,12 @@ mostra branchs existentes
 # Siglas:
 ## SEO - Search Engine Optimization
 ## RFC - Request for commit
+
+ipconfig - mostra dados da rede do computador (ip)
+
+ping < ip do equipamento ou link do site> - manda uma solicitação de ping e aguarda retorno 
+
+NS - Name System
+DNS - Domain Name System
+
+tracert link do site - mostra rota até chegar no site.
