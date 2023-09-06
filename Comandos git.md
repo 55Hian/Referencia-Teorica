@@ -79,6 +79,14 @@ mostra branchs existentes
 ## git branch -f "branch escolhido" "branch destino"
 #### muda um branch parar qualquer posição na arvore
 
+## git cherry-pick <Commit1> <Commit2> <...>
+#### cria copias de commit em um novo ramo
+
+## git rebase -i
+#### cria copias de commit em um novo ramo de forma interativa (interface)
+
+## git commit --amend
+
 # Bibiografia:
 ## https://developer.mozilla.org/pt-BR/docs/Glossary/WHATWG
 #### Tags html mozilla
