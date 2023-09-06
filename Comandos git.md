@@ -76,6 +76,9 @@ mostra branchs existentes
 ## git log --decorate --graph --all
 #### mostra arvore de commits do processo
 
+## git branch -f "branch escolhido" "branch destino"
+#### muda um branch parar qualquer posição na arvore
+
 # Bibiografia:
 ## https://developer.mozilla.org/pt-BR/docs/Glossary/WHATWG
 #### Tags html mozilla
