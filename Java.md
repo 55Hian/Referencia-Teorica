@@ -27,3 +27,13 @@
 #### analise de erro de sintaxe
 #### compilação de programas
 #### depuração (acompanhamento) de execução do programa.
+
+#### Eclipse IDE
+ambiente corporativo 
+#### IntelliJ
+ambiente academico 
+#### Visual Studio Code
+pra quem já trabalha com outras plataformas 
+
+
+
