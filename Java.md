@@ -12,3 +12,6 @@
 #### abstração 
 #### herança 
 #### polimorfismo
+
+## plataforma independente
+#### funciona em qualquer plataforma (windows,apple, IOS, android, etc)
