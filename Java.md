@@ -15,3 +15,7 @@
 
 ## plataforma independente
 #### funciona em qualquer plataforma (windows,apple, IOS, android, etc)
+
+## interpretada ou compilada?
+#### java utiliza os dois, é compilada para gerar um arquivo bytecode e a JVM interpreta o arquivo bytecode durante a execução 
+
