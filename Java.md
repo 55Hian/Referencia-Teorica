@@ -19,3 +19,11 @@
 ## interpretada ou compilada?
 #### java utiliza os dois, é compilada para gerar um arquivo bytecode e a JVM interpreta o arquivo bytecode durante a execução 
 
+# ambiente de desenvolvimento java
+## IDE 
+### Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
+#### auto-complete e intelliSense
+#### formatação de palavras e blocos de cofigo
+#### analise de erro de sintaxe
+#### compilação de programas
+#### depuração (acompanhamento) de execução do programa.
