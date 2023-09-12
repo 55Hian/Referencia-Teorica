@@ -115,3 +115,6 @@ NS - Name System
 DNS - Domain Name System
 
 tracert link do site - mostra rota até chegar no site.
+
+#CSS
+organização do margin e paddin: Topo Direita Fundo Esquerda
