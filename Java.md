@@ -44,5 +44,13 @@ pra quem já trabalha com outras plataformas
 
 #sysout - atalho para System.out.println() no eclipse
 
+# propriedade - variavel
+# metodo - função
 
+# uma classe é um conjunto de propriedades e metodos.
+# main sempre é o primeiro metodo a ser executado
+# arquivo .class é um txt, arquivo .java é binario
+# classe de driver é aquela classe que tem o metodo main
+# objetos são coisas com mesmas propriedades, em java, devem pertencer a mesma classe.
 
+objetos precisam estar contidos dentro das classes?
