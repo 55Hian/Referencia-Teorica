@@ -53,4 +53,4 @@ pra quem já trabalha com outras plataformas
 # classe de driver é aquela classe que tem o metodo main
 # objetos são coisas com mesmas propriedades, em java, devem pertencer a mesma classe.
 
-objetos precisam estar contidos dentro das classes?
+# https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html - sintaxe java
