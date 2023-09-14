@@ -37,3 +37,12 @@ pra quem já trabalha com outras plataformas
 
 
 
+# nome de projeto somente com as primeiras letras maiuscula
+# nome de pacote todo minusculo
+# nome de classe somente com as primeiras letras maiusculas
+# nome de metodo todo minusculo
+
+#sysout - atalho para System.out.println() no eclipse
+
+
+
