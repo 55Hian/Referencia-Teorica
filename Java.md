@@ -72,3 +72,11 @@ pra quem já trabalha com outras plataformas
 #### toda classe herda de object
 #### java suporta apenas uma herança unica ( Super-classe --> sub-classe)
 
+#### distinção entre relacionamentos
+
+#### is-a (é um) 
+#### has-a (tem um)
+
+# Atributos protected
+### 
+
