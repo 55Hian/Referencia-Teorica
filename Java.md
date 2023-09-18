@@ -35,22 +35,20 @@ ambiente academico
 #### Visual Studio Code
 pra quem já trabalha com outras plataformas 
 
+#Ateção
+### nome de projeto somente com as primeiras letras maiuscula
+### nome de pacote todo minusculo
+### nome de classe somente com as primeiras letras maiusculas
+### nome de metodo todo minusculo
 
+### sysout - atalho para System.out.println() no eclipse
 
-# nome de projeto somente com as primeiras letras maiuscula
-# nome de pacote todo minusculo
-# nome de classe somente com as primeiras letras maiusculas
-# nome de metodo todo minusculo
+### propriedade - variavel
+### metodo - função
 
-#sysout - atalho para System.out.println() no eclipse
-
-# propriedade - variavel
-# metodo - função
-
-# uma classe é um conjunto de propriedades e metodos.
-# main sempre é o primeiro metodo a ser executado
-# arquivo .class é um txt, arquivo .java é binario
-# classe de driver é aquela classe que tem o metodo main
-# objetos são coisas com mesmas propriedades, em java, devem pertencer a mesma classe.
-
-# https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html - sintaxe java
+### uma classe é um conjunto de propriedades e metodos.
+### main sempre é o primeiro metodo a ser executado
+### arquivo .class é um txt, arquivo .java é binario
+### classe de driver é aquela classe que tem o metodo main
+### objetos são coisas com mesmas propriedades, em java, devem pertencer a mesma classe.
+### https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html - sintaxe java
