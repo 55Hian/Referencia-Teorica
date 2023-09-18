@@ -59,3 +59,16 @@ pra quem já trabalha com outras plataformas
 #### economiza tempo durante o desenvolvimento do programa.
 #### facilita a manutenção do sistema
 
+#### a classe que ja existe é a super-classe (classe mae)
+#### a nova classe é uma sub-classe (classe filho)
+#### se você não der novos parametros, ela só copia o codigo da sua super-classe
+#### uma subclasse pode ter seus proprios metodos e campos
+#### a subclasse sempre é mais especifica que a superclasse
+
+
+#### superclasse direta - esta logo acima de você
+#### superclasse indireta - classes acima da sua super classe direta
+#### a hierarquia de classes começa com a Object(fica em java.lang)
+#### toda classe herda de object
+#### java suporta apenas uma herança unica ( Super-classe --> sub-classe)
+
