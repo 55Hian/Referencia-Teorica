@@ -54,8 +54,8 @@ pra quem já trabalha com outras plataformas
 ### https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html - sintaxe java
 
 # Herança
-## criar uma classe apartir de uma classe que ja existe
-### Qual vantagem?
+### criar uma classe apartir de uma classe que ja existe
+#### Qual vantagem?
 #### economiza tempo durante o desenvolvimento do programa.
 #### facilita a manutenção do sistema
 
