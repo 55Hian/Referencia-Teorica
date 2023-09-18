@@ -80,3 +80,9 @@ pra quem já trabalha com outras plataformas
 # Atributos protected
 ### 
 
+
+empresa com dois tipos de funcionarios
+funcionario 1 - se nao vender = 0, se vender = comissão
+funcionario 2 - se não vender = fixo, se vender = comissão
+
+
